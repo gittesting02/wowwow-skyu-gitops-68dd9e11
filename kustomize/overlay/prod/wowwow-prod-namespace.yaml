@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: wowwow-prod
+  labels:
+    environment-id: env_20029e98-45e1-4404-a12d-0a5bbb70b6bf
+    project-id: project_9903e50f-bce1-49fd-a2a1-157e4414aa72
+    project-name: wowwow
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
